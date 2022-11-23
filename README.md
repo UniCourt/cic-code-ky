@@ -11,8 +11,10 @@ Following releases are included:
  * Release 81 dated 2021.05.12.
  * Release 82 dated 2021.07.28.
  * Release 83 dated 2021.11.
- * Release 84 dated 2022.01
- * Release 85 dated 2022.04
+ * Release 84 dated 2022.01.
+ * Release 85 dated 2022.04.
+ * Release 86 dated 2022.07.
+ * Release 87 dated 2022.10.
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
 
@@ -37,6 +39,8 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ky
  **North Carolina (NC):** https://unicourt.github.io/cic-code-nc
 
  **North Dakota (ND):** https://unicourt.github.io/cic-code-nd
+
+ **Rhode Island (RI):** https://unicourt.github.io/cic-code-ri
  
  **Tennessee (TN):** https://unicourt.github.io/cic-code-tn
  
