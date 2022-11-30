@@ -18,7 +18,7 @@ Following releases are included:
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
 
-Original RTF files can be found here: https://archive.org/download/gov.ky.ocky.2018
+Original RTF files can be found here: https://archive.org/download/gov.ky.code
 
 The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ky/
 
